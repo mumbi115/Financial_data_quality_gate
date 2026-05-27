@@ -1,6 +1,6 @@
 Markdown
 # Global Financial Data Quality Gate & Pre-Consolidation Framework
-
+![Project Dashboard](Screenshot 2026-05-27 170931.png)
 ## Executive Summary
 In multinational financial environments, data governance failures during monthly group consolidations frequently lead to closing bottlenecks, manually adjusted journals, and broken audit trails. 
 
